@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "紧急呼叫按钮",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
