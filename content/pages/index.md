@@ -169,7 +169,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/微信图片_20240827135123.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/微信图片_20240827135112.png
