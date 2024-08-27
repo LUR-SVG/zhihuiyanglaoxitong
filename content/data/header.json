@@ -51,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "运动探测器",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
