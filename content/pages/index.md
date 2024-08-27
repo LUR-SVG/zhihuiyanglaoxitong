@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: 照明系统
+    text: |
+      环境传感器
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +30,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/ABUIABAEGAAggNTthAYo-vu6wwcwtwg48QM.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 智能门锁
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +51,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 平台功能简介
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      智慧养老软件功能包括：智慧会员、智慧照护、智慧服务、智慧健康、智慧呼叫、智慧机构、智慧院区、智慧HIS、智慧运营、智慧连锁、智慧监管、智慧数据、智慧移动、智慧终端、智慧生态、智慧维护、智慧实训、智慧大屏。
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 智慧会员包括
+        text: >+
+          智慧会员包括：老人动态档案管理、老人评估系统、会员服务管理、中医体质辨识、会员充值积分管理，对老人基本信息（基本信息、健康信息、亲属信息等）动态管理，并对老人活动能力、中医体质等进行评估，以此对老人制定分级服务计划，发展为会员的用户进行个性化的会员服务管理，如：会员卡管理、充值积分管理，定期回访管理等。
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +89,10 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 智慧照护包括
+        text: >+
+          智慧照护包括：呼叫服务、人员定位（室内定位和室外定）、电子围栏、主动报警、紧急救助、睡眠监测、照护计划、独居监护、健康监测。老人一键呼叫，服务快速响应；随时随地预约，操作方便快捷；订单全程跟踪，保障服务质量；健康安全监测，降低独居风险；数据精准分析，指导运营决策；子女实时查看，提高双方沟通。
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +113,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 智慧服务包括
+        text: >+
+          智慧服务包括：主动关怀、家庭医生、电商（商城）、护理服务、订单服务、健康管理服务、志愿者、时间银行、助洁服务、助行服务。潜在会员跟进，提高会员转化；丰富盈利模式，促进消费行为；服务质量可控，全程监督记录；便捷支付方式，方便快捷省心；服务内容周全，长者皆大欢迎。
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -168,27 +164,27 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 服务相关项目
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/微信图片_20240827135126.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/微信图片_20240827135123.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/微信图片_20240827135112.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/微信图片_20240827135108.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/微信图片_20240827135056.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/微信图片_20240827135119.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/微信图片_20240827135130.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
@@ -435,7 +431,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +461,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +521,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +551,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +646,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

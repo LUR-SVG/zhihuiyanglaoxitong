@@ -4,14 +4,16 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "智能家居设备",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "健康监测设备",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "健康管理平台",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,11 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "智能助理",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "紧急呼叫按钮",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "运动探测器",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "摄像头",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -71,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "登录",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
@@ -80,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "注册",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
