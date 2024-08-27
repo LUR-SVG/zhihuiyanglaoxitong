@@ -175,7 +175,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/微信图片_20240827135108.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/微信图片_20240827135056.png
