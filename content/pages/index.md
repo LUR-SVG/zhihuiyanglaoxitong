@@ -172,7 +172,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/微信图片_20240827135112.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/微信图片_20240827135108.png
