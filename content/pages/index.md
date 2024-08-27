@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: 照明系统
     text: |
-      智能门锁、照明系统、环境传感器
+      环境传感器
     actions:
       - label: Get started
         altText: ''
