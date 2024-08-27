@@ -1,0 +1,141 @@
+{
+    "model": "Header",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "leibiao",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "xiangmu"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "header",
+                "title": null,
+                "logo": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/logo-dark.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Logo dark",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "mr-3"
+                            ]
+                        }
+                    }
+                },
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "智能家居设备",
+                        "altText": null,
+                        "url": "/pricing",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "健康监测设备",
+                        "altText": "Blog",
+                        "url": "/blog",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "健康管理平台",
+                        "altText": "Careers page",
+                        "url": "/careers",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "SubNav",
+                        "label": "智能助理",
+                        "altText": "Dropdown",
+                        "links": [
+                            {
+                                "$$type": "Link",
+                                "label": "紧急呼叫按钮",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            },
+                            {
+                                "$$type": "Link",
+                                "label": "运动探测器",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            },
+                            {
+                                "$$type": "Link",
+                                "label": "摄像头",
+                                "altText": null,
+                                "url": "/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            }
+                        ],
+                        "labelStyle": "secondary"
+                    }
+                ],
+                "secondaryLinks": [
+                    {
+                        "$$type": "Button",
+                        "label": "登录",
+                        "altText": "Sign up",
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Button",
+                        "label": "注册",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "variant": "logo-left-primary-nav-centered",
+                "colors": "bg-light-fg-dark",
+                "styles": null
+            },
+            "thumbnail": "images/header-leibiao-2aaa.png"
+        }
+    ]
+}
