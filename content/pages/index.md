@@ -166,7 +166,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/微信图片_20240827135126.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/微信图片_20240827135123.png
