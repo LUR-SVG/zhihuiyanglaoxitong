@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "登录",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
