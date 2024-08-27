@@ -181,7 +181,7 @@ sections:
       - url: /images/微信图片_20240827135056.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/微信图片_20240827135116.png
+      - url: /images/微信图片_20240827135119.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
