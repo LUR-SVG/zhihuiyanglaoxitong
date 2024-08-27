@@ -164,7 +164,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 服务相关项目
     images:
       - url: /images/微信图片_20240827135126.png
         altText: Empathy logo
