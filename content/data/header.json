@@ -59,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "摄像头",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
