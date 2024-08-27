@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 智能门锁
       color: text-primary
       type: Badge
     elementId: ''
