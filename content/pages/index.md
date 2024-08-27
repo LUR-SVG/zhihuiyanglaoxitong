@@ -63,10 +63,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          智慧会员包括：老人动态档案管理、老人评估系统、会员服务管理、中医体质辨识、会员充值积分管理，对老人基本信息（基本信息、健康信息、亲属信息等）动态管理，并对老人活动能力、中医体质等进行评估，以此对老人制定分级服务计划，发展为会员的用户进行个性化的会员服务管理，如：会员卡管理、充值积分管理，定期回访管理等。
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
