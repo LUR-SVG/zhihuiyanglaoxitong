@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "注册",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
