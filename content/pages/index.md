@@ -57,7 +57,8 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      智慧养老软件功能包括：智慧会员、智慧照护、智慧服务、智慧健康、智慧呼叫、智慧机构、智慧院区、智慧HIS、智慧运营、智慧连锁、智慧监管、智慧数据、智慧移动、智慧终端、智慧生态、智慧维护、智慧实训、智慧大屏。
     items:
       - type: FeaturedItem
         title: 500k
