@@ -90,10 +90,8 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          智慧照护包括：呼叫服务、人员定位（室内定位和室外定）、电子围栏、主动报警、紧急救助、睡眠监测、照护计划、独居监护、健康监测。老人一键呼叫，服务快速响应；随时随地预约，操作方便快捷；订单全程跟踪，保障服务质量；健康安全监测，降低独居风险；数据精准分析，指导运营决策；子女实时查看，提高双方沟通。
         image:
           url: /images/icon2.svg
           altText: Featured icon two
