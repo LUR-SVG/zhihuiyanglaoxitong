@@ -114,10 +114,9 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          智慧服务包括：主动关怀、家庭医生、电商（商城）、护理服务、订单服务、健康管理服务、志愿者、时间银行、助洁服务、助行服务。潜在会员跟进，提高会员转化；丰富盈利模式，促进消费行为；服务质量可控，全程监督记录；便捷支付方式，方便快捷省心；服务内容周全，长者皆大欢迎。
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
